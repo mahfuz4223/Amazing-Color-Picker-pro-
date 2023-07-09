@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Amazing Color Picker pro ",
+    "description": "The Amazing Color Picker Pro Extension revolutionizes your browsing experience by providing a powerful and convenient way to pick any color from web pages. With this extension, you can effortlessly extract colors, maintain a history of your picked colors, and easily copy RGB and Hex codes or clear them with a single click",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
